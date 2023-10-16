@@ -1,0 +1,10 @@
+
+target/
+dbt_packages/
+logs/
+
+*.duckdb
+*__pycache__
+*.DS_Store
+
+../logs/
